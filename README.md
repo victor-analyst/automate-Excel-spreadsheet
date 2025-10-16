@@ -82,14 +82,22 @@ mate-Excel-spreadsheet
 Project that automates reports in Excel
 
 📸 Exemplo de Execução
+
 <p align="center">
   <img src="REPORT/72f254f1-784a-4ec1-90f0-7ab86c49e4cc.jpg" alt="Exemplo de planilha gerada" width="600">
 </p>
 
-
+<p align="center">
+  <img src="REPORT/6efab8dd-a8c0-40ed-afe6-a746b8a2094f.jpg" alt="Segunda imagem de exemplo" width="600">
+</p>
 
 
 O resultado final da planilha formatada
+
+<p align="center">
+  <img src="REPORT/33e6c18d-6b7d-4c65-bbff-fe140a94581d.jpg" alt="Imagem de exemplo 3" width="600"><br>
+  <em>Figura 3 – Resultado final da planilha com formatação e fórmulas aplicadas.</em>
+</p>
 
 
 
