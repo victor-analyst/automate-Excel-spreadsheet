@@ -46,7 +46,7 @@ Aplicar toda a formatação e fórmulas automaticamente
 
 Exibir uma mensagem de sucesso no console
 
-
+---
 
 🧮 Estrutura e Lógica do Código
 Criação de DataFrame:
@@ -71,7 +71,7 @@ Formatação Condicional:
 
 Coluna “C” destacada em amarelo para rotas “Não”
 
-
+---
 
 🧱 Estrutura do Projeto
 bash
@@ -85,7 +85,7 @@ automatizacao-relatorios/
 mate-Excel-spreadsheet
 Project that automates reports in Excel
 
-
+---
 📸 Exemplo de Execução
 
 <p align="center">
@@ -96,7 +96,7 @@ Project that automates reports in Excel
   <img src="REPORT/6efab8dd-a8c0-40ed-afe6-a746b8a2094f.jpg" alt="Segunda imagem de exemplo" width="600">
 </p>
 
-
+---
 <p align="center">
   <img src="REPORT/33e6c18d-6b7d-4c65-bbff-fe140a94581d.jpg" alt="Imagem de exemplo 3" width="600"><br>
   <em>Figura 3 – Resultado final da planilha com formatação e fórmulas aplicadas.</em>
