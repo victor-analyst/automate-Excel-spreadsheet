@@ -1,6 +1,6 @@
 #  📊 Automatização de Relatórios e Planilhas Excel
 
-Este projeto tem como objetivo **automatizar a criação e atualização de relatórios no Excel** a partir de dados extraídos de imagens.  
+Este projeto tem como objetivo **AUTOMATIZAR a criação e atualização de relatórios no Excel** a partir de dados extraídos de imagens.  
 Através da biblioteca **Tesseract OCR**, o código lê informações de imagens e transforma esses dados em **planilhas formatadas automaticamente** com **fórmulas, cores e formatações condicionais**.
 
 ---
@@ -92,8 +92,6 @@ Project that automates reports in Excel
 </p>
 
 
-O resultado final da planilha formatada
-
 <p align="center">
   <img src="REPORT/33e6c18d-6b7d-4c65-bbff-fe140a94581d.jpg" alt="Imagem de exemplo 3" width="600"><br>
   <em>Figura 3 – Resultado final da planilha com formatação e fórmulas aplicadas.</em>
@@ -101,10 +99,6 @@ O resultado final da planilha formatada
 
 
 
-
-markdown
-Copiar código
-![Exemplo Planilha](images/exemplo_planilha.png)
 
 
 🧑‍💻 Autor
