@@ -46,6 +46,8 @@ Aplicar toda a formatação e fórmulas automaticamente
 
 Exibir uma mensagem de sucesso no console
 
+
+
 🧮 Estrutura e Lógica do Código
 Criação de DataFrame:
 A partir de listas (rotas, motoristas, placas, etc.), o código gera uma tabela com colunas nomeadas.
@@ -70,6 +72,7 @@ Formatação Condicional:
 Coluna “C” destacada em amarelo para rotas “Não”
 
 
+
 🧱 Estrutura do Projeto
 bash
 Copiar código
@@ -81,6 +84,7 @@ automatizacao-relatorios/
 └── REPORT_GLAD.xlsx       # Saída gerada automaticamente
 mate-Excel-spreadsheet
 Project that automates reports in Excel
+
 
 📸 Exemplo de Execução
 
