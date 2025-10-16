@@ -22,11 +22,12 @@ Através da biblioteca **Tesseract OCR**, o código lê informações de imagens
 ---
 
 ## 🧰 Tecnologias Utilizadas
-
-- [Python](https://www.python.org/)
-- [pandas](https://pandas.pydata.org/)
-- [openpyxl](https://openpyxl.readthedocs.io/)
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+| 💻 Tecnologia | 🧠 Descrição |
+|---------------|--------------|
+| 🐍 **Python** | Linguagem principal do projeto |
+| 🧮 **pandas** | Manipulação e estruturação de dados |
+| 📊 **openpyxl** | Criação e formatação de planilhas Excel |
+| 👁️‍🗨️ **Tesseract OCR** | Reconhecimento de texto em imagens |
 
 ---
 
